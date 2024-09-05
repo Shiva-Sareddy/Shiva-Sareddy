@@ -31,18 +31,18 @@ I'm **Shiva Sareddy**
 
 
 ### 🌟 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiva1023&hide_progress=false&theme=radical&hide_border=true&border_radius=14)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiva-Sareddy&hide_progress=false&theme=radical&hide_border=true&border_radius=14)
 
 
 
 
 ### 📈 GitHub Metrics
 
-[![Shiva1023 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shiva1023&show_icons=true&theme=radical&border_radius=14&hide_border=true)](https://github.com/Shiva1023)
+[![Shiva1023 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shiva-Sareddy&show_icons=true&theme=radical&border_radius=14&hide_border=true)](https://github.com/Shiva1023)
 
 🔥 My Contribution Streak:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Shiva1023&theme=radical&hide_border=true&border_radius=14&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=525)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Shiva-Sareddy&theme=radical&hide_border=true&border_radius=14&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=525)](https://git.io/streak-stats)
 
 
 
