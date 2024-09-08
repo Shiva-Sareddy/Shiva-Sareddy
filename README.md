@@ -58,9 +58,9 @@ I'm **Shiva Sareddy**
 
 ### 🤝 Let's Connect & Collaborate!
 
-   <a href="https://www.youtube.com/@shiva.sareddy"><img style="margin: 10px;" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/d190e37443ed7a09f39017cbf06d1b6be82d06e1/images/svg/youtube.svg" height="40"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/Shiva.sareddy"><img style="margin: 10px;" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/d190e37443ed7a09f39017cbf06d1b6be82d06e1/images/svg/instagram.svg" height="40"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/shiva-sareddy"><img style="margin: 10px;" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/d190e37443ed7a09f39017cbf06d1b6be82d06e1/images/svg/linkedin.svg" height="40"></a>&nbsp;&nbsp;
+   <a href="https://www.youtube.com/@shiva.sareddy"><img style="margin: 10px;" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/1a078b4b319beaa7fbcd202fa7fc1fc5d79d94d2/large/filled/youtube.svg" height="40"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/Shiva.sareddy"><img style="margin: 10px;" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/1a078b4b319beaa7fbcd202fa7fc1fc5d79d94d2/large/filled/instagram.svg" height="40"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/shiva-sareddy"><img style="margin: 10px;" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/1a078b4b319beaa7fbcd202fa7fc1fc5d79d94d2/large/filled/linkedin.svg" height="40"></a>&nbsp;&nbsp;
 <a href="mailto:shivapullareddy4931@gmail.com"><img style="margin: 10px;" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/d190e37443ed7a09f39017cbf06d1b6be82d06e1/images/svg/gmail.svg" height="40"></a>
 
 
