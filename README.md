@@ -9,7 +9,7 @@ I'm **Shiva Sareddy**
 - 🚀 Continuously learning and evolving in the world of software development.
 
 ### 📊 Quick Stats
-- 💻 **Pythonista Extraordinaire**
+- 💻 **SQL Querist**
 - 🌐 **Web Sorcerer**
 - 📊 **Data Science Explorer**
 
