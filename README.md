@@ -11,7 +11,6 @@ I'm **Shiva Sareddy**
 ### 📊 Quick Stats
 - 💻 **SQL Querist**
 - 🌐 **Web Sorcerer**
-- 📊 **Data Science Explorer**
 
 
 ### 🛠️ Tech Toolbox
